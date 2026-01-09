@@ -1,0 +1,19 @@
+
+{
+  "name": "Relógio de Ponto Profissional",
+  "short_name": "Ponto",
+  "description": "Sistema sofisticado de registro de ponto com suporte offline.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2972/2972531.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

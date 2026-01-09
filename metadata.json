@@ -1,5 +1,5 @@
 {
-  "name": "Relógio de Ponto",
-  "description": "A sophisticated and responsive time clock system for professional time tracking, featuring a sleek timer, record management, and PDF exports.",
+  "name": "Relógio de Ponto PWA",
+  "description": "Sistema de registro de ponto profissional instalável no smartphone com suporte offline e exportação de PDF.",
   "requestFramePermissions": []
 }
